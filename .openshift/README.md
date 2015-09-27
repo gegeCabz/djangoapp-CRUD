@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Django Template for OpenShift
 
 ## Template App Information
@@ -22,3 +23,10 @@ If this process succeeds, then the changes have been automatically
 applied. Otherwise it may be necessary to manually apply the
 changes. If the base package has changed enough, you may need to
 re-audit the base code and generate a new patch file.
+=======
+The OpenShift `python` cartridge documentation can be found at:
+http://openshift.github.io/documentation/oo_cartridge_guide.html#python
+
+For information about .openshift directory, consult the documentation:
+http://openshift.github.io/documentation/oo_user_guide.html#the-openshift-directory
+>>>>>>> c97029a7ca7482746475e7c4d2fd54d8df846b70

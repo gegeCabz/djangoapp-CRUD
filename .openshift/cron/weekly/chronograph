@@ -1,3 +1,7 @@
 #!/bin/bash
 
+<<<<<<< HEAD
 echo "$(date): $(cat $(dirname \"$0\")/chrono.dat)"
+=======
+echo "`date`: `cat $(dirname \"$0\")/chrono.dat`"
+>>>>>>> c97029a7ca7482746475e7c4d2fd54d8df846b70
